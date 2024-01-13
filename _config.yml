@@ -20,7 +20,7 @@ description: "Wing Fighter 战机 Wiki: Fighters, Commanders, Challenges, Events
 keywords:           Wing Fighter, Pilots, Fighter, Commanders, Weapon, Armor, Events
 language:           "cn" 
 locale:             "cn" 
-url:                "https://wing-fighter.github.io"
+url:                "https://wing-fighter.github.io/cn/"
 logo: "https://wing-fighter.github.io/images/WingFighter_Wiki_Logo.png"
 ####google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
