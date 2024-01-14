@@ -1,8 +1,8 @@
 main:
   - title: "News"
-    url: /posts/
+    url: https://wing-fighter.github.io/posts/
   - title: "About"
-    url: /about/
+    url: https://wing-fighter.github.io/about/
 
 
 
@@ -16,28 +16,28 @@ docs:
   - title: "Language"
     children:
       - title: "Wing Fighter"
-        url: /
+        url: https://wing-fighter.github.io/
         isactive: 1
         img: /images/nav/us.svg
         hreflang: en
       - title: "Wing Flugzeug"
-        url: /de/
+        url: https://wing-fighter.github.io/de/
         img: /images/nav/de.svg
         hreflang: de
       - title: "Wing Chasseur"
-        url: /fr/
+        url: https://wing-fighter.github.io/fr/
         img: /images/nav/fr.svg
         hreflang: fr
       - title: "Wing Caça"
-        url: /it/
+        url: https://wing-fighter.github.io/it/
         img: /images/nav/it.svg
         hreflang: it
       - title: "Wing Avión"
-        url: /es/
+        url: https://wing-fighter.github.io/es/
         img: /images/nav/es.svg
         hreflang: es
       - title: "Wing Истребитель"
-        url: /ru/
+        url: https://wing-fighter.github.io/ru/
         img: /images/nav/ru.svg
         hreflang: ru
       - title: "战机"
