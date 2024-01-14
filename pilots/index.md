@@ -2,7 +2,7 @@
 title: "Wing Fighter Pilots"
 permalink: /pilots/
 excerpt: "Wing Fighter List of 飞行员s"
-last_modified_at: 2024-01-13
+last_modified_at: 2024-01-14
 locale: cn
 ref: "index.md"
 toc: false
@@ -12,50 +12,50 @@ classes: wide
 
   |  Nr | Icon | 飞行员 | Quality |     Skill     |
   |:----|:----:|:----------|:-------:|:--------------|
-  | 1 | ![埃尔](/images/pilots/aviator_piece_3009_p.png) | [埃尔](/pilots/埃尔) | N | 受到玩家的伤害减少<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 2 | ![巴德尔](/images/pilots/aviator_piece_3005_p.png) | [巴德尔](/pilots/巴德尔) | N | 采集中心每刷新3次资源，副炮攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 3 | ![帕吉](/images/pilots/aviator_piece_3010_p.png) | [帕吉](/pilots/帕吉) | N | 狂轰乱炸活动星星产量+<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 4 | ![库丘林](/images/pilots/aviator_piece_3001_p.png) | [库丘林](/pilots/库丘林) | N | 每领取8小时挂机收益，每小时挂机星星增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 5 | ![朱丽叶](/images/pilots/aviator_piece_3002_p.png) | [朱丽叶](/pilots/朱丽叶) | N | 每击杀500个普通敌人，对普通敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 6 | ![海伦](/images/pilots/aviator_piece_3006_p.png) | [海伦](/pilots/海伦) | N | 每登录1天，主炮攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 7 | ![潘多拉](/images/pilots/aviator_piece_3007_p.png) | [潘多拉](/pilots/潘多拉) | N | 采集中心每刷新3次对手，导弹攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 8 | ![辉夜姬](/images/pilots/aviator_piece_3004_p.png) | [辉夜姬](/pilots/辉夜姬) | N | 每击杀5个首领敌人，对首领敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 9 | ![阿喀琉斯](/images/pilots/aviator_piece_3003_p.png) | [阿喀琉斯](/pilots/阿喀琉斯) | N | 每击杀100个精英敌人，对精英敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 10 | ![阿里亚德涅](/images/pilots/aviator_piece_3008_p.png) | [阿里亚德涅](/pilots/阿里亚德涅) | N | 对玩家造成伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 11 | ![代达罗斯](/images/pilots/aviator_piece_4015_p.png) | [代达罗斯](/pilots/代达罗斯) | R | 对首领敌人伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 12 | ![伏尔甘](/images/pilots/aviator_piece_4012_p.png) | [伏尔甘](/pilots/伏尔甘) | R | 受普通敌人伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 13 | ![努阿达](/images/pilots/aviator_piece_4006_p.png) | [努阿达](/pilots/努阿达) | R | 星球大战中每占领10次星球，对首领敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 14 | ![古尔维格](/images/pilots/aviator_piece_4009_p.png) | [古尔维格](/pilots/古尔维格) | R | 每完成5次强敌试炼，对玩家造成伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 15 | ![密涅瓦](/images/pilots/aviator_piece_4013_p.png) | [密涅瓦](/pilots/密涅瓦) | R | 对精英敌人伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 16 | ![帕里斯](/images/pilots/aviator_piece_4014_p.png) | [帕里斯](/pilots/帕里斯) | R | 受精英敌人伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 17 | ![格萝德](/images/pilots/aviator_piece_4002_p.png) | [格萝德](/pilots/格萝德) | R | 每完成100层无尽的航行，副炮攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 18 | ![桂妮维娅](/images/pilots/aviator_piece_4001_p.png) | [桂妮维娅](/pilots/桂妮维娅) | R | 每打开10个超强补给包，主炮攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 19 | ![瓦尔基里](/images/pilots/aviator_piece_4004_p.png) | [瓦尔基里](/pilots/瓦尔基里) | R | 每观看完成10次广告，护甲生命值增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 20 | ![维斯塔](/images/pilots/aviator_piece_4005_p.png) | [维斯塔](/pilots/维斯塔) | R | 每完成5次狂轰乱炸，狂轰乱炸活动星星产量增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 21 | ![莫甘娜](/images/pilots/aviator_piece_4007_p.png) | [莫甘娜](/pilots/莫甘娜) | R | 每完成3次空海模拟，对精英敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 22 | ![贝尔芬格](/images/pilots/aviator_piece_4016_p.png) | [贝尔芬格](/pilots/贝尔芬格) | R | 受首领敌人伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 23 | ![贞德](/images/pilots/aviator_piece_4010_p.png) | [贞德](/pilots/贞德) | R | 每完成5次切断补给，受到玩家的伤害减少<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 24 | ![赫卡忒](/images/pilots/aviator_piece_4011_p.png) | [赫卡忒](/pilots/赫卡忒) | R | 对普通敌人伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 25 | ![路西法](/images/pilots/aviator_piece_4003_p.png) | [路西法](/pilots/路西法) | R | 每完成4次任务派遣，导弹攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 26 | ![阿蒙](/images/pilots/aviator_piece_4008_p.png) | [阿蒙](/pilots/阿蒙) | R | 参与协助盟友采集资源5次，对普通敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 27 | ![克罗托](/images/pilots/aviator_piece_5011_p.png) | [克罗托](/pilots/克罗托) | SR | 采集中心每消耗30点燃料，导弹基础攻击增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 28 | ![兰斯洛特](/images/pilots/aviator_piece_5006_p.png) | [兰斯洛特](/pilots/兰斯洛特) | SR | 每完成10次泰坦挑战赛，暴击伤害减免增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 29 | ![半藏](/images/pilots/aviator_piece_5003_p.png) | [半藏](/pilots/半藏) | SR | 星球大战中每攻击20次，暴击增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 30 | ![姆温都](/images/pilots/aviator_piece_5008_p.png) | [姆温都](/pilots/姆温都) | SR | 每进行20次飞行员招募，受到空中敌人(包括玩家)的伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 31 | ![布伦希尔德](/images/pilots/aviator_piece_5009_p.png) | [布伦希尔德](/pilots/布伦希尔德) | SR | 采集中心每采集30次自己的资源，主炮基础攻击增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 32 | ![斯珀斯](/images/pilots/aviator_piece_5018_p.png) | [斯珀斯](/pilots/斯珀斯) | SR | 受地面/水面敌人伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 33 | ![欧雅](/images/pilots/aviator_piece_5016_p.png) | [欧雅](/pilots/欧雅) | SR | 每获得XXX钻石,护甲生命+<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 34 | ![海拉](/images/pilots/aviator_piece_5007_p.png) | [海拉](/pilots/海拉) | SR | 星球大战中每占领48小时星球，对空中敌人(包括玩家)伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 35 | ![芙蕾雅](/images/pilots/aviator_piece_5001_p.png) | [芙蕾雅](/pilots/芙蕾雅) | SR | 每消耗3000钻石，闪避增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 36 | ![西芙](/images/pilots/aviator_piece_5017_p.png) | [西芙](/pilots/西芙) | SR | 对地面/水面敌人伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 37 | ![贝娄娜](/images/pilots/aviator_piece_5015_p.png) | [贝娄娜](/pilots/贝娄娜) | SR | 每获得XXX点星球大战积分,导弹攻击+<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 38 | ![赫拉克勒斯](/images/pilots/aviator_piece_5013_p.png) | [赫拉克勒斯](/pilots/赫拉克勒斯) | SR | 每获得XXX点泰坦挑战积分,主炮攻击+<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 39 | ![赫斯提亚](/images/pilots/aviator_piece_5005_p.png) | [赫斯提亚](/pilots/赫斯提亚) | SR | 每成功进行80次资源抢夺，暴击伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 40 | ![阿尔忒弥斯](/images/pilots/aviator_piece_5002_p.png) | [阿尔忒弥斯](/pilots/阿尔忒弥斯) | SR | 每消耗100体力，命中率增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 41 | ![雅典娜](/images/pilots/aviator_piece_5004_p.png) | [雅典娜](/pilots/雅典娜) | SR | 每完成20次每日任务，暴击抵抗增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 42 | ![韦丝娜](/images/pilots/aviator_piece_5014_p.png) | [韦丝娜](/pilots/韦丝娜) | SR | 每获得XXX点军团积分,副炮攻击+<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
-  | 43 | ![须佐之男](/images/pilots/aviator_piece_5012_p.png) | [须佐之男](/pilots/须佐之男) | SR | 在星球大战中每采集4000点稀土，装甲基础生命增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
-  | 44 | ![齐格弗雷德](/images/pilots/aviator_piece_5010_p.png) | [齐格弗雷德](/pilots/齐格弗雷德) | SR | 每挑战军团首领10次，副炮基础攻击增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 1 | ![埃尔](/images/pilots/aviator_piece_3009_p.png) | [埃尔](/cn/pilots/埃尔) | N | 受到玩家的伤害减少<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 2 | ![巴德尔](/images/pilots/aviator_piece_3005_p.png) | [巴德尔](/cn/pilots/巴德尔) | N | 采集中心每刷新3次资源，副炮攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 3 | ![帕吉](/images/pilots/aviator_piece_3010_p.png) | [帕吉](/cn/pilots/帕吉) | N | 狂轰乱炸活动星星产量+<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 4 | ![库丘林](/images/pilots/aviator_piece_3001_p.png) | [库丘林](/cn/pilots/库丘林) | N | 每领取8小时挂机收益，每小时挂机星星增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 5 | ![朱丽叶](/images/pilots/aviator_piece_3002_p.png) | [朱丽叶](/cn/pilots/朱丽叶) | N | 每击杀500个普通敌人，对普通敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 6 | ![海伦](/images/pilots/aviator_piece_3006_p.png) | [海伦](/cn/pilots/海伦) | N | 每登录1天，主炮攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 7 | ![潘多拉](/images/pilots/aviator_piece_3007_p.png) | [潘多拉](/cn/pilots/潘多拉) | N | 采集中心每刷新3次对手，导弹攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 8 | ![辉夜姬](/images/pilots/aviator_piece_3004_p.png) | [辉夜姬](/cn/pilots/辉夜姬) | N | 每击杀5个首领敌人，对首领敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 9 | ![阿喀琉斯](/images/pilots/aviator_piece_3003_p.png) | [阿喀琉斯](/cn/pilots/阿喀琉斯) | N | 每击杀100个精英敌人，对精英敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 10 | ![阿里亚德涅](/images/pilots/aviator_piece_3008_p.png) | [阿里亚德涅](/cn/pilots/阿里亚德涅) | N | 对玩家造成伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 11 | ![代达罗斯](/images/pilots/aviator_piece_4015_p.png) | [代达罗斯](/cn/pilots/代达罗斯) | R | 对首领敌人伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 12 | ![伏尔甘](/images/pilots/aviator_piece_4012_p.png) | [伏尔甘](/cn/pilots/伏尔甘) | R | 受普通敌人伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 13 | ![努阿达](/images/pilots/aviator_piece_4006_p.png) | [努阿达](/cn/pilots/努阿达) | R | 星球大战中每占领10次星球，对首领敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 14 | ![古尔维格](/images/pilots/aviator_piece_4009_p.png) | [古尔维格](/cn/pilots/古尔维格) | R | 每完成5次强敌试炼，对玩家造成伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 15 | ![密涅瓦](/images/pilots/aviator_piece_4013_p.png) | [密涅瓦](/cn/pilots/密涅瓦) | R | 对精英敌人伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 16 | ![帕里斯](/images/pilots/aviator_piece_4014_p.png) | [帕里斯](/cn/pilots/帕里斯) | R | 受精英敌人伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 17 | ![格萝德](/images/pilots/aviator_piece_4002_p.png) | [格萝德](/cn/pilots/格萝德) | R | 每完成100层无尽的航行，副炮攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 18 | ![桂妮维娅](/images/pilots/aviator_piece_4001_p.png) | [桂妮维娅](/cn/pilots/桂妮维娅) | R | 每打开10个超强补给包，主炮攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 19 | ![瓦尔基里](/images/pilots/aviator_piece_4004_p.png) | [瓦尔基里](/cn/pilots/瓦尔基里) | R | 每观看完成10次广告，护甲生命值增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 20 | ![维斯塔](/images/pilots/aviator_piece_4005_p.png) | [维斯塔](/cn/pilots/维斯塔) | R | 每完成5次狂轰乱炸，狂轰乱炸活动星星产量增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 21 | ![莫甘娜](/images/pilots/aviator_piece_4007_p.png) | [莫甘娜](/cn/pilots/莫甘娜) | R | 每完成3次空海模拟，对精英敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 22 | ![贝尔芬格](/images/pilots/aviator_piece_4016_p.png) | [贝尔芬格](/cn/pilots/贝尔芬格) | R | 受首领敌人伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 23 | ![贞德](/images/pilots/aviator_piece_4010_p.png) | [贞德](/cn/pilots/贞德) | R | 每完成5次切断补给，受到玩家的伤害减少<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 24 | ![赫卡忒](/images/pilots/aviator_piece_4011_p.png) | [赫卡忒](/cn/pilots/赫卡忒) | R | 对普通敌人伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 25 | ![路西法](/images/pilots/aviator_piece_4003_p.png) | [路西法](/cn/pilots/路西法) | R | 每完成4次任务派遣，导弹攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 26 | ![阿蒙](/images/pilots/aviator_piece_4008_p.png) | [阿蒙](/cn/pilots/阿蒙) | R | 参与协助盟友采集资源5次，对普通敌人攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 27 | ![克罗托](/images/pilots/aviator_piece_5011_p.png) | [克罗托](/cn/pilots/克罗托) | SR | 采集中心每消耗30点燃料，导弹基础攻击增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 28 | ![兰斯洛特](/images/pilots/aviator_piece_5006_p.png) | [兰斯洛特](/cn/pilots/兰斯洛特) | SR | 每完成10次泰坦挑战赛，暴击伤害减免增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 29 | ![半藏](/images/pilots/aviator_piece_5003_p.png) | [半藏](/cn/pilots/半藏) | SR | 星球大战中每攻击20次，暴击增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 30 | ![姆温都](/images/pilots/aviator_piece_5008_p.png) | [姆温都](/cn/pilots/姆温都) | SR | 每进行20次飞行员招募，受到空中敌人(包括玩家)的伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 31 | ![布伦希尔德](/images/pilots/aviator_piece_5009_p.png) | [布伦希尔德](/cn/pilots/布伦希尔德) | SR | 采集中心每采集30次自己的资源，主炮基础攻击增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 32 | ![斯珀斯](/images/pilots/aviator_piece_5018_p.png) | [斯珀斯](/cn/pilots/斯珀斯) | SR | 受地面/水面敌人伤害降低<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 33 | ![欧雅](/images/pilots/aviator_piece_5016_p.png) | [欧雅](/cn/pilots/欧雅) | SR | 每获得XXX钻石,护甲生命+<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 34 | ![海拉](/images/pilots/aviator_piece_5007_p.png) | [海拉](/cn/pilots/海拉) | SR | 星球大战中每占领48小时星球，对空中敌人(包括玩家)伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 35 | ![芙蕾雅](/images/pilots/aviator_piece_5001_p.png) | [芙蕾雅](/cn/pilots/芙蕾雅) | SR | 每消耗3000钻石，闪避增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 36 | ![西芙](/images/pilots/aviator_piece_5017_p.png) | [西芙](/cn/pilots/西芙) | SR | 对地面/水面敌人伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 37 | ![贝娄娜](/images/pilots/aviator_piece_5015_p.png) | [贝娄娜](/cn/pilots/贝娄娜) | SR | 每获得XXX点星球大战积分,导弹攻击+<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 38 | ![赫拉克勒斯](/images/pilots/aviator_piece_5013_p.png) | [赫拉克勒斯](/cn/pilots/赫拉克勒斯) | SR | 每获得XXX点泰坦挑战积分,主炮攻击+<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 39 | ![赫斯提亚](/images/pilots/aviator_piece_5005_p.png) | [赫斯提亚](/cn/pilots/赫斯提亚) | SR | 每成功进行80次资源抢夺，暴击伤害增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 40 | ![阿尔忒弥斯](/images/pilots/aviator_piece_5002_p.png) | [阿尔忒弥斯](/cn/pilots/阿尔忒弥斯) | SR | 每消耗100体力，命中率增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 41 | ![雅典娜](/images/pilots/aviator_piece_5004_p.png) | [雅典娜](/cn/pilots/雅典娜) | SR | 每完成20次每日任务，暴击抵抗增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 42 | ![韦丝娜](/images/pilots/aviator_piece_5014_p.png) | [韦丝娜](/cn/pilots/韦丝娜) | SR | 每获得XXX点军团积分,副炮攻击+<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
+  | 43 | ![须佐之男](/images/pilots/aviator_piece_5012_p.png) | [须佐之男](/cn/pilots/须佐之男) | SR | 在星球大战中每采集4000点稀土，装甲基础生命增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
+  | 44 | ![齐格弗雷德](/images/pilots/aviator_piece_5010_p.png) | [齐格弗雷德](/cn/pilots/齐格弗雷德) | SR | 每挑战军团首领10次，副炮基础攻击增加<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
 
 ## List of Pilot Shards
 
