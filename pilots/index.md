@@ -10,7 +10,7 @@ classes: wide
 ---
 ## List of Pilots
 
-  |  Nr | Icon | 飞行员 | Quality |     Skill     |
+  |  Nr | Icon | 飞行员 | Quality |     技能     |
   |:----|:----:|:----------|:-------:|:--------------|
   | 1 | ![埃尔](/images/pilots/aviator_piece_3009_p.png) | [埃尔](/cn/pilots/埃尔) | N | 受到玩家的伤害减少<span style="color: #03ff6b">Y %</span><br/><span style="color: #000000;"></span> |
   | 2 | ![巴德尔](/images/pilots/aviator_piece_3005_p.png) | [巴德尔](/cn/pilots/巴德尔) | N | 采集中心每刷新3次资源，副炮攻击增加<span style="color: #03ff6b">YY</span><br/><span style="color: #000000;"></span> |
