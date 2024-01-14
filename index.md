@@ -1,6 +1,6 @@
 ---
 title: "Wing Fighter Chinese"
-permalink: /cn/
+permalink: /
 excerpt: "Wing Fighter Chinese version"
 last_modified_at: 2023-07-26
 locale: cn
