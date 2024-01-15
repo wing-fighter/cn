@@ -10,7 +10,7 @@ classes: wide
 ---
 
 
-  More about Challenge: [Challenge](/battle/Challenge/){: .btn .btn--info}
+  More about 前往挑战: [前往挑战](/cn/battle/Challenge/){: .btn .btn--info}
 
  {% capture notice-updateDEV %}
  
