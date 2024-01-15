@@ -1,10 +1,10 @@
 ---
-title: "CC Resource 4"
-permalink: /CollectionCenter/CC Resource +4/
-excerpt: "Wing Fighter CC Resource4"
+title: "CC Resource 模组"
+permalink: /CollectionCenter/CC Resource 模组/
+excerpt: "Wing Fighter CC Resource模组"
 last_modified_at: 2024-01-15
 locale: cn
-ref: "CC Resource +4.md"
+ref: "CC Resource 模组.md"
 toc: false
 classes: wide
 ---
@@ -17,9 +17,14 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![纳米材料 +4](/images/cc/CC_纳米材料_4_p.png) | [纳米材料 +4](/cn/CollectionCenter/纳米材料_4/) | 纳米材料×250 |
-  | ![星星 +4](/images/cc/CC_星星_4_p.png) | [星星 +4](/cn/CollectionCenter/星星_4/) | 星星×6400 |
-  | ![战机碎片 +4](/images/cc/CC_战机碎片_4_p.png) | [战机碎片 +4](/cn/CollectionCenter/战机碎片_4/) | 概率获得SR飞机碎片×2 |
-  | ![合金 +4](/images/cc/CC_合金_4_p.png) | [合金 +4](/cn/CollectionCenter/合金_4/) | 合金×4 |
+  | ![模组 +1](/images/cc/CC_模组_1_p.png) | [模组 +1](/cn/CollectionCenter/模组_1/) | 随机模组×7 |
+  | ![模组 +2](/images/cc/CC_模组_2_p.png) | [模组 +2](/cn/CollectionCenter/模组_2/) | 随机模组×10 |
+  | ![模组 +3](/images/cc/CC_模组_3_p.png) | [模组 +3](/cn/CollectionCenter/模组_3/) | 随机模组×15 |
   | ![模组 +4](/images/cc/CC_模组_4_p.png) | [模组 +4](/cn/CollectionCenter/模组_4/) | 随机模组×20 |
-  | ![指挥官经验 +4](/images/cc/CC_指挥官经验_4_p.png) | [指挥官经验 +4](/cn/CollectionCenter/指挥官经验_4/) | 经验卡II×3-4 |
+  | ![模组 +5](/images/cc/CC_模组_5_p.png) | [模组 +5](/cn/CollectionCenter/模组_5/) | 随机模组×30 |
+  | ![模组 +6](/images/cc/CC_模组_5_p.png) | [模组 +6](/cn/CollectionCenter/模组_6/) | 随机模组×40 |
+  | ![模组 +7](/images/cc/CC_模组_5_p.png) | [模组 +7](/cn/CollectionCenter/模组_7/) | 随机模组×55 |
+  | ![模组 +8](/images/cc/CC_模组_5_p.png) | [模组 +8](/cn/CollectionCenter/模组_8/) | 随机模组×70 |
+  | ![模组 +9](/images/cc/CC_模组_6_p.png) | [模组 +9](/cn/CollectionCenter/模组_9/) | 随机模组×85 |
+  | ![模组 +10](/images/cc/CC_模组_6_p.png) | [模组 +10](/cn/CollectionCenter/模组_10/) | 随机模组×100 |
+  | ![模组 +11](/images/cc/CC_模组_6_p.png) | [模组 +11](/cn/CollectionCenter/模组_11/) | 随机模组×120 |

@@ -1,10 +1,10 @@
 ---
-title: "CC Resource 4"
-permalink: /CollectionCenter/CC Resource +4/
-excerpt: "Wing Fighter CC Resource4"
+title: "CC Resource 战机碎片"
+permalink: /CollectionCenter/CC Resource 战机碎片/
+excerpt: "Wing Fighter CC Resource战机碎片"
 last_modified_at: 2024-01-15
 locale: cn
-ref: "CC Resource +4.md"
+ref: "CC Resource 战机碎片.md"
 toc: false
 classes: wide
 ---
@@ -17,9 +17,14 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![纳米材料 +4](/images/cc/CC_纳米材料_4_p.png) | [纳米材料 +4](/cn/CollectionCenter/纳米材料_4/) | 纳米材料×250 |
-  | ![星星 +4](/images/cc/CC_星星_4_p.png) | [星星 +4](/cn/CollectionCenter/星星_4/) | 星星×6400 |
+  | ![战机碎片 +1](/images/cc/CC_战机碎片_1_p.png) | [战机碎片 +1](/cn/CollectionCenter/战机碎片_1/) | 概率获得R飞机碎片×1 |
+  | ![战机碎片 +2](/images/cc/CC_战机碎片_2_p.png) | [战机碎片 +2](/cn/CollectionCenter/战机碎片_2/) | 概率获得R飞机碎片×2 |
+  | ![战机碎片 +3](/images/cc/CC_战机碎片_3_p.png) | [战机碎片 +3](/cn/CollectionCenter/战机碎片_3/) | 概率获得SR飞机碎片×1 |
   | ![战机碎片 +4](/images/cc/CC_战机碎片_4_p.png) | [战机碎片 +4](/cn/CollectionCenter/战机碎片_4/) | 概率获得SR飞机碎片×2 |
-  | ![合金 +4](/images/cc/CC_合金_4_p.png) | [合金 +4](/cn/CollectionCenter/合金_4/) | 合金×4 |
-  | ![模组 +4](/images/cc/CC_模组_4_p.png) | [模组 +4](/cn/CollectionCenter/模组_4/) | 随机模组×20 |
-  | ![指挥官经验 +4](/images/cc/CC_指挥官经验_4_p.png) | [指挥官经验 +4](/cn/CollectionCenter/指挥官经验_4/) | 经验卡II×3-4 |
+  | ![战机碎片 +5](/images/cc/CC_战机碎片_5_p.png) | [战机碎片 +5](/cn/CollectionCenter/战机碎片_5/) | 获得SR飞机碎片×2 |
+  | ![战机碎片 +6](/images/cc/CC_战机碎片_5_p.png) | [战机碎片 +6](/cn/CollectionCenter/战机碎片_6/) | 概率获得SR飞机碎片×3 |
+  | ![战机碎片 +7](/images/cc/CC_战机碎片_5_p.png) | [战机碎片 +7](/cn/CollectionCenter/战机碎片_7/) | 更高概率获得SR飞机碎片×3 |
+  | ![战机碎片 +8](/images/cc/CC_战机碎片_5_p.png) | [战机碎片 +8](/cn/CollectionCenter/战机碎片_8/) | 获得SR飞机碎片×3 |
+  | ![战机碎片 +9](/images/cc/CC_战机碎片_6_p.png) | [战机碎片 +9](/cn/CollectionCenter/战机碎片_9/) | 概率获得SSR飞机碎片×2 |
+  | ![战机碎片 +10](/images/cc/CC_战机碎片_6_p.png) | [战机碎片 +10](/cn/CollectionCenter/战机碎片_10/) | 获得SSR飞机碎片×2 |
+  | ![战机碎片 +11](/images/cc/CC_战机碎片_6_p.png) | [战机碎片 +11](/cn/CollectionCenter/战机碎片_11/) | 概率获得套装飞机碎片×2 |
