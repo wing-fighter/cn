@@ -12,6 +12,8 @@ docs:
     children:
     - title: "飞行员"
       url: /pilots/
+    - title: "战斗"
+      url: /battle/
       
   - title: "Language"
     children:
