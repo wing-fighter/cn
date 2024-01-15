@@ -2,7 +2,7 @@
 title: "Wing Fighter Pilots"
 permalink: /pilots/
 excerpt: "Wing Fighter List of 飞行员s"
-last_modified_at: 2024-01-14
+last_modified_at: 2024-01-15
 locale: cn
 ref: "index.md"
 toc: false
