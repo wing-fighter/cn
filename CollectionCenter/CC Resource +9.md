@@ -17,9 +17,9 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![纳米材料 +9](/images/cc/CC_纳米材料_6_p.png) | [纳米材料 +9](/cn/CollectionCenter/纳米材料_9/) | 纳米材料×3200 |
-  | ![星星 +9](/images/cc/CC_星星_6_p.png) | [星星 +9](/cn/CollectionCenter/星星_9/) | 星星×38400 |
-  | ![战机碎片 +9](/images/cc/CC_战机碎片_6_p.png) | [战机碎片 +9](/cn/CollectionCenter/战机碎片_9/) | 概率获得SSR飞机碎片×2 |
-  | ![合金 +9](/images/cc/CC_合金_6_p.png) | [合金 +9](/cn/CollectionCenter/合金_9/) | 合金×9 |
-  | ![模组 +9](/images/cc/CC_模组_6_p.png) | [模组 +9](/cn/CollectionCenter/模组_9/) | 随机模组×85 |
-  | ![指挥官经验 +9](/images/cc/CC_指挥官经验_6_p.png) | [指挥官经验 +9](/cn/CollectionCenter/指挥官经验_9/) | 经验卡III×4-5 |
+  | ![纳米材料 +9](/images/cc/CC_Nano_Material_6_p.png) | [纳米材料 +9](/cn/CollectionCenter/纳米材料_9/) | 纳米材料×3200 |
+  | ![星星 +9](/images/cc/CC_Star_6_p.png) | [星星 +9](/cn/CollectionCenter/星星_9/) | 星星×38400 |
+  | ![战机碎片 +9](/images/cc/CC_Fighter_Shard_6_p.png) | [战机碎片 +9](/cn/CollectionCenter/战机碎片_9/) | 概率获得SSR飞机碎片×2 |
+  | ![合金 +9](/images/cc/CC_Alloy_Plate_6_p.png) | [合金 +9](/cn/CollectionCenter/合金_9/) | 合金×9 |
+  | ![模组 +9](/images/cc/CC_Module_6_p.png) | [模组 +9](/cn/CollectionCenter/模组_9/) | 随机模组×85 |
+  | ![指挥官经验 +9](/images/cc/CC_Commander_EXP_Card_6_p.png) | [指挥官经验 +9](/cn/CollectionCenter/指挥官经验_9/) | 经验卡III×4-5 |

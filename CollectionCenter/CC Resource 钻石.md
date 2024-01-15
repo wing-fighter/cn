@@ -17,6 +17,6 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![钻石 +1](/images/cc/CC_钻石_1_p.png) | [钻石 +1](/cn/CollectionCenter/钻石_1/) | 钻石×20 |
-  | ![钻石 +2](/images/cc/CC_钻石_2_p.png) | [钻石 +2](/cn/CollectionCenter/钻石_2/) | 钻石×40 |
-  | ![钻石 +3](/images/cc/CC_钻石_3_p.png) | [钻石 +3](/cn/CollectionCenter/钻石_3/) | 钻石×60 |
+  | ![钻石 +1](/images/cc/CC_Diamond_1_p.png) | [钻石 +1](/cn/CollectionCenter/钻石_1/) | 钻石×20 |
+  | ![钻石 +2](/images/cc/CC_Diamond_2_p.png) | [钻石 +2](/cn/CollectionCenter/钻石_2/) | 钻石×40 |
+  | ![钻石 +3](/images/cc/CC_Diamond_3_p.png) | [钻石 +3](/cn/CollectionCenter/钻石_3/) | 钻石×60 |

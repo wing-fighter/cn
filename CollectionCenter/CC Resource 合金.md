@@ -17,14 +17,14 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![合金 +1](/images/cc/CC_合金_1_p.png) | [合金 +1](/cn/CollectionCenter/合金_1/) | 合金×1 |
-  | ![合金 +2](/images/cc/CC_合金_2_p.png) | [合金 +2](/cn/CollectionCenter/合金_2/) | 合金×2 |
-  | ![合金 +3](/images/cc/CC_合金_3_p.png) | [合金 +3](/cn/CollectionCenter/合金_3/) | 合金×3 |
-  | ![合金 +4](/images/cc/CC_合金_4_p.png) | [合金 +4](/cn/CollectionCenter/合金_4/) | 合金×4 |
-  | ![合金 +5](/images/cc/CC_合金_5_p.png) | [合金 +5](/cn/CollectionCenter/合金_5/) | 合金×5 |
-  | ![合金 +6](/images/cc/CC_合金_5_p.png) | [合金 +6](/cn/CollectionCenter/合金_6/) | 合金×6 |
-  | ![合金 +7](/images/cc/CC_合金_5_p.png) | [合金 +7](/cn/CollectionCenter/合金_7/) | 合金×7 |
-  | ![合金 +8](/images/cc/CC_合金_5_p.png) | [合金 +8](/cn/CollectionCenter/合金_8/) | 合金×8 |
-  | ![合金 +9](/images/cc/CC_合金_6_p.png) | [合金 +9](/cn/CollectionCenter/合金_9/) | 合金×9 |
-  | ![合金 +10](/images/cc/CC_合金_6_p.png) | [合金 +10](/cn/CollectionCenter/合金_10/) | 合金×10 |
-  | ![合金 +11](/images/cc/CC_合金_6_p.png) | [合金 +11](/cn/CollectionCenter/合金_11/) | 合金×11 |
+  | ![合金 +1](/images/cc/CC_Alloy_Plate_1_p.png) | [合金 +1](/cn/CollectionCenter/合金_1/) | 合金×1 |
+  | ![合金 +2](/images/cc/CC_Alloy_Plate_2_p.png) | [合金 +2](/cn/CollectionCenter/合金_2/) | 合金×2 |
+  | ![合金 +3](/images/cc/CC_Alloy_Plate_3_p.png) | [合金 +3](/cn/CollectionCenter/合金_3/) | 合金×3 |
+  | ![合金 +4](/images/cc/CC_Alloy_Plate_4_p.png) | [合金 +4](/cn/CollectionCenter/合金_4/) | 合金×4 |
+  | ![合金 +5](/images/cc/CC_Alloy_Plate_5_p.png) | [合金 +5](/cn/CollectionCenter/合金_5/) | 合金×5 |
+  | ![合金 +6](/images/cc/CC_Alloy_Plate_5_p.png) | [合金 +6](/cn/CollectionCenter/合金_6/) | 合金×6 |
+  | ![合金 +7](/images/cc/CC_Alloy_Plate_5_p.png) | [合金 +7](/cn/CollectionCenter/合金_7/) | 合金×7 |
+  | ![合金 +8](/images/cc/CC_Alloy_Plate_5_p.png) | [合金 +8](/cn/CollectionCenter/合金_8/) | 合金×8 |
+  | ![合金 +9](/images/cc/CC_Alloy_Plate_6_p.png) | [合金 +9](/cn/CollectionCenter/合金_9/) | 合金×9 |
+  | ![合金 +10](/images/cc/CC_Alloy_Plate_6_p.png) | [合金 +10](/cn/CollectionCenter/合金_10/) | 合金×10 |
+  | ![合金 +11](/images/cc/CC_Alloy_Plate_6_p.png) | [合金 +11](/cn/CollectionCenter/合金_11/) | 合金×11 |
