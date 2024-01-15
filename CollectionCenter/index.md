@@ -12,7 +12,7 @@ classes: wide
 
   ![采集中心](/images/bh_img6.png)
 
-  [采集中心 Levels](/cn/CollectionCenter/#collection-center-levels){: .btn .btn--info}
+  [采集中心 Levels](/cn/CollectionCenter/#采集中心-levels){: .btn .btn--info}
 
 
   by CC Resource Level:  [11](/cn/CollectionCenter/CC Resource +11/){: .btn .btn--primary}   [1](/cn/CollectionCenter/CC Resource +1/){: .btn .btn--success}   [2](/cn/CollectionCenter/CC Resource +2/){: .btn .btn--warning}   [3](/cn/CollectionCenter/CC Resource +3/){: .btn .btn--danger}   [4](/cn/CollectionCenter/CC Resource +4/){: .btn .btn--info}   [5](/cn/CollectionCenter/CC Resource +5/){: .btn .btn--primary}   [6](/cn/CollectionCenter/CC Resource +6/){: .btn .btn--success}   [7](/cn/CollectionCenter/CC Resource +7/){: .btn .btn--warning}   [8](/cn/CollectionCenter/CC Resource +8/){: .btn .btn--danger}   [9](/cn/CollectionCenter/CC Resource +9/){: .btn .btn--info}   [10](/cn/CollectionCenter/CC Resource +10/){: .btn .btn--primary} 
