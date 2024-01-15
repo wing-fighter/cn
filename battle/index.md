@@ -26,7 +26,7 @@ classes: wide
 
 ## Stages
 
-  | Level |    Name   | Wave Count | Recommended BP |     Map   | Consume |
+  | Level |    军团名称   | Wave Count | Recommended BP |     Map   | Consume |
   |:------|:----------|:----------:|:---------------|:----------|:-------:|
   | 1 | 黎明石林 | **30** | **3000** | Desert01 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 2 | 夜色废墟 | **50** | **6000** | Desert02 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
@@ -92,7 +92,7 @@ classes: wide
 
 ## Unknown stages
 
-  |  Nr |  Level |    Name   | Wave Count | Recommended BP |     Map   | Consume |
+  |  Nr |  Level |    军团名称   | Wave Count | Recommended BP |     Map   | Consume |
   |:----|:-------|:----------|:----------:|:---------------|:----------|:-------:|
   | 1 | 事件.黎明石林 | 黎明石林 | **50** | **82000** | Desert08 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
   | 2 | 事件.薄雾油田 | 薄雾油田 | **50** | **88000** | Desert03 (normal) | **5x**![Unknown_3](/images/item/Settlement_Energy_p.png) |
