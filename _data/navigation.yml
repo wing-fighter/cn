@@ -14,6 +14,8 @@ docs:
       url: /pilots/
     - title: "战斗"
       url: /battle/
+    - title: "采集中心"
+      url: /CollectionCenter/
       
   - title: "Language"
     children:
