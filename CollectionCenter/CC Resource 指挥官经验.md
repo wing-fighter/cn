@@ -17,14 +17,14 @@ classes: wide
 
   |   Icon |      CC Resource        |   Description   |
   |:------:|:---------------:|:---------------:|
-  | ![指挥官经验 +1](/images/cc/CC_Commander_EXP_Card_1_p.png) | [指挥官经验 +1](/cn/CollectionCenter/指挥官经验_1/) | 经验卡I×2-3 |
-  | ![指挥官经验 +2](/images/cc/CC_Commander_EXP_Card_2_p.png) | [指挥官经验 +2](/cn/CollectionCenter/指挥官经验_2/) | 经验卡I×4-5 |
-  | ![指挥官经验 +3](/images/cc/CC_Commander_EXP_Card_3_p.png) | [指挥官经验 +3](/cn/CollectionCenter/指挥官经验_3/) | 经验卡II×2-3 |
-  | ![指挥官经验 +4](/images/cc/CC_Commander_EXP_Card_4_p.png) | [指挥官经验 +4](/cn/CollectionCenter/指挥官经验_4/) | 经验卡II×3-4 |
-  | ![指挥官经验 +5](/images/cc/CC_Commander_EXP_Card_5_p.png) | [指挥官经验 +5](/cn/CollectionCenter/指挥官经验_5/) | 经验卡II×5-6 |
-  | ![指挥官经验 +6](/images/cc/CC_Commander_EXP_Card_5_p.png) | [指挥官经验 +6](/cn/CollectionCenter/指挥官经验_6/) | 经验卡II×6-7 |
-  | ![指挥官经验 +7](/images/cc/CC_Commander_EXP_Card_5_p.png) | [指挥官经验 +7](/cn/CollectionCenter/指挥官经验_7/) | 经验卡III×2-3 |
-  | ![指挥官经验 +8](/images/cc/CC_Commander_EXP_Card_5_p.png) | [指挥官经验 +8](/cn/CollectionCenter/指挥官经验_8/) | 经验卡III×3-4 |
-  | ![指挥官经验 +9](/images/cc/CC_Commander_EXP_Card_6_p.png) | [指挥官经验 +9](/cn/CollectionCenter/指挥官经验_9/) | 经验卡III×4-5 |
-  | ![指挥官经验 +10](/images/cc/CC_Commander_EXP_Card_6_p.png) | [指挥官经验 +10](/cn/CollectionCenter/指挥官经验_10/) | 经验卡III×5-6 |
-  | ![指挥官经验 +11](/images/cc/CC_Commander_EXP_Card_6_p.png) | [指挥官经验 +11](/cn/CollectionCenter/指挥官经验_11/) | 经验卡IV×2 |
+  | ![指挥官经验 +1](/images/cc/CC_Pilot_EXP_Card_1_p.png) | [指挥官经验 +1](/cn/CollectionCenter/指挥官经验_1/) | 经验卡I×2-3 |
+  | ![指挥官经验 +2](/images/cc/CC_Pilot_EXP_Card_2_p.png) | [指挥官经验 +2](/cn/CollectionCenter/指挥官经验_2/) | 经验卡I×4-5 |
+  | ![指挥官经验 +3](/images/cc/CC_Pilot_EXP_Card_3_p.png) | [指挥官经验 +3](/cn/CollectionCenter/指挥官经验_3/) | 经验卡II×2-3 |
+  | ![指挥官经验 +4](/images/cc/CC_Pilot_EXP_Card_4_p.png) | [指挥官经验 +4](/cn/CollectionCenter/指挥官经验_4/) | 经验卡II×3-4 |
+  | ![指挥官经验 +5](/images/cc/CC_Pilot_EXP_Card_5_p.png) | [指挥官经验 +5](/cn/CollectionCenter/指挥官经验_5/) | 经验卡II×5-6 |
+  | ![指挥官经验 +6](/images/cc/CC_Pilot_EXP_Card_5_p.png) | [指挥官经验 +6](/cn/CollectionCenter/指挥官经验_6/) | 经验卡II×6-7 |
+  | ![指挥官经验 +7](/images/cc/CC_Pilot_EXP_Card_5_p.png) | [指挥官经验 +7](/cn/CollectionCenter/指挥官经验_7/) | 经验卡III×2-3 |
+  | ![指挥官经验 +8](/images/cc/CC_Pilot_EXP_Card_5_p.png) | [指挥官经验 +8](/cn/CollectionCenter/指挥官经验_8/) | 经验卡III×3-4 |
+  | ![指挥官经验 +9](/images/cc/CC_Pilot_EXP_Card_6_p.png) | [指挥官经验 +9](/cn/CollectionCenter/指挥官经验_9/) | 经验卡III×4-5 |
+  | ![指挥官经验 +10](/images/cc/CC_Pilot_EXP_Card_6_p.png) | [指挥官经验 +10](/cn/CollectionCenter/指挥官经验_10/) | 经验卡III×5-6 |
+  | ![指挥官经验 +11](/images/cc/CC_Pilot_EXP_Card_6_p.png) | [指挥官经验 +11](/cn/CollectionCenter/指挥官经验_11/) | 经验卡IV×2 |

@@ -22,4 +22,4 @@ classes: wide
   | ![战机碎片 +7](/images/cc/CC_Fighter_Shard_5_p.png) | [战机碎片 +7](/cn/CollectionCenter/战机碎片_7/) | 更高概率获得SR飞机碎片×3 |
   | ![合金 +7](/images/cc/CC_Alloy_Plate_5_p.png) | [合金 +7](/cn/CollectionCenter/合金_7/) | 合金×7 |
   | ![模组 +7](/images/cc/CC_Module_5_p.png) | [模组 +7](/cn/CollectionCenter/模组_7/) | 随机模组×55 |
-  | ![指挥官经验 +7](/images/cc/CC_Commander_EXP_Card_5_p.png) | [指挥官经验 +7](/cn/CollectionCenter/指挥官经验_7/) | 经验卡III×2-3 |
+  | ![指挥官经验 +7](/images/cc/CC_Pilot_EXP_Card_5_p.png) | [指挥官经验 +7](/cn/CollectionCenter/指挥官经验_7/) | 经验卡III×2-3 |

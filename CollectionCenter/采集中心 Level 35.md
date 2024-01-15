@@ -28,7 +28,7 @@ classes: wide
 
  **Alloy (max level):** ![合金 +6](/images/cc/CC_Alloy_Plate_5_p.png) [合金 +6](/cn/CollectionCenter/合金_6/)
 
- **Pilot EXP Card (max level):** ![指挥官经验 +6](/images/cc/CC_Commander_EXP_Card_5_p.png) [指挥官经验 +6](/cn/CollectionCenter/指挥官经验_6/)
+ **Pilot EXP Card (max level):** ![指挥官经验 +6](/images/cc/CC_Pilot_EXP_Card_5_p.png) [指挥官经验 +6](/cn/CollectionCenter/指挥官经验_6/)
 
  **Diamonds (max level):** ![钻石 +3](/images/cc/CC_Diamond_3_p.png) [钻石 +3](/cn/CollectionCenter/钻石_3/)
 
@@ -59,8 +59,8 @@ classes: wide
   | +21 | ![模组 +4](/images/cc/CC_Module_4_p.png) [模组 +4](/cn/CollectionCenter/模组_4/) | 随机模组×20 | **3.157928** |
   | +22 | ![模组 +5](/images/cc/CC_Module_5_p.png) [模组 +5](/cn/CollectionCenter/模组_5/) | 随机模组×30 | **3.157928** |
   | +23 | ![模组 +6](/images/cc/CC_Module_5_p.png) [模组 +6](/cn/CollectionCenter/模组_6/) | 随机模组×40 | **3.157928** |
-  | +24 | ![指挥官经验 +3](/images/cc/CC_Commander_EXP_Card_3_p.png) [指挥官经验 +3](/cn/CollectionCenter/指挥官经验_3/) | 经验卡II×2-3 | **6.315856** |
-  | +25 | ![指挥官经验 +4](/images/cc/CC_Commander_EXP_Card_4_p.png) [指挥官经验 +4](/cn/CollectionCenter/指挥官经验_4/) | 经验卡II×3-4 | **3.157928** |
-  | +26 | ![指挥官经验 +5](/images/cc/CC_Commander_EXP_Card_5_p.png) [指挥官经验 +5](/cn/CollectionCenter/指挥官经验_5/) | 经验卡II×5-6 | **3.157928** |
-  | +27 | ![指挥官经验 +6](/images/cc/CC_Commander_EXP_Card_5_p.png) [指挥官经验 +6](/cn/CollectionCenter/指挥官经验_6/) | 经验卡II×6-7 | **3.157928** |
+  | +24 | ![指挥官经验 +3](/images/cc/CC_Pilot_EXP_Card_3_p.png) [指挥官经验 +3](/cn/CollectionCenter/指挥官经验_3/) | 经验卡II×2-3 | **6.315856** |
+  | +25 | ![指挥官经验 +4](/images/cc/CC_Pilot_EXP_Card_4_p.png) [指挥官经验 +4](/cn/CollectionCenter/指挥官经验_4/) | 经验卡II×3-4 | **3.157928** |
+  | +26 | ![指挥官经验 +5](/images/cc/CC_Pilot_EXP_Card_5_p.png) [指挥官经验 +5](/cn/CollectionCenter/指挥官经验_5/) | 经验卡II×5-6 | **3.157928** |
+  | +27 | ![指挥官经验 +6](/images/cc/CC_Pilot_EXP_Card_5_p.png) [指挥官经验 +6](/cn/CollectionCenter/指挥官经验_6/) | 经验卡II×6-7 | **3.157928** |
 

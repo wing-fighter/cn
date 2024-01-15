@@ -22,4 +22,4 @@ classes: wide
   | ![战机碎片 +11](/images/cc/CC_Fighter_Shard_6_p.png) | [战机碎片 +11](/cn/CollectionCenter/战机碎片_11/) | 概率获得套装飞机碎片×2 |
   | ![合金 +11](/images/cc/CC_Alloy_Plate_6_p.png) | [合金 +11](/cn/CollectionCenter/合金_11/) | 合金×11 |
   | ![模组 +11](/images/cc/CC_Module_6_p.png) | [模组 +11](/cn/CollectionCenter/模组_11/) | 随机模组×120 |
-  | ![指挥官经验 +11](/images/cc/CC_Commander_EXP_Card_6_p.png) | [指挥官经验 +11](/cn/CollectionCenter/指挥官经验_11/) | 经验卡IV×2 |
+  | ![指挥官经验 +11](/images/cc/CC_Pilot_EXP_Card_6_p.png) | [指挥官经验 +11](/cn/CollectionCenter/指挥官经验_11/) | 经验卡IV×2 |

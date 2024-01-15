@@ -22,5 +22,5 @@ classes: wide
   | ![战机碎片 +2](/images/cc/CC_Fighter_Shard_2_p.png) | [战机碎片 +2](/cn/CollectionCenter/战机碎片_2/) | 概率获得R飞机碎片×2 |
   | ![合金 +2](/images/cc/CC_Alloy_Plate_2_p.png) | [合金 +2](/cn/CollectionCenter/合金_2/) | 合金×2 |
   | ![模组 +2](/images/cc/CC_Module_2_p.png) | [模组 +2](/cn/CollectionCenter/模组_2/) | 随机模组×10 |
-  | ![指挥官经验 +2](/images/cc/CC_Commander_EXP_Card_2_p.png) | [指挥官经验 +2](/cn/CollectionCenter/指挥官经验_2/) | 经验卡I×4-5 |
+  | ![指挥官经验 +2](/images/cc/CC_Pilot_EXP_Card_2_p.png) | [指挥官经验 +2](/cn/CollectionCenter/指挥官经验_2/) | 经验卡I×4-5 |
   | ![钻石 +2](/images/cc/CC_Diamond_2_p.png) | [钻石 +2](/cn/CollectionCenter/钻石_2/) | 钻石×40 |
